@@ -1,6 +1,6 @@
 ## 📘 Project Overview
 
-This project outlines a comprehensive **Data Center Security Plan** for ACME College, addressing the urgent need to secure the business and research data centers under space and budget constraints. The plan is developed in response to potential security breaches and is structured around the **three core pillars of cybersecurity**:
+This project outlines a comprehensive **Data Center Security Plan** for a made-up College, addressing the urgent need to secure the business and research data centers under space and budget constraints. The plan is developed in response to potential security breaches and is structured around the **three core pillars of cybersecurity**:
 
 - **Administrative Controls**
 - **Technical Controls**
