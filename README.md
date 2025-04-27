@@ -28,3 +28,32 @@ These include security-enhancing policies and staff responsibilities to govern b
 - 24/7 Security Personnel
 
 ---
+### 💻 Technical Controls
+
+These enforce cybersecurity measures that protect the network and system infrastructure from external and internal cyber threats.
+
+- **Firewall Configuration**
+- **Intrusion Detection/Prevention System (IDPS)**
+- **TLS/SSL Encryption**
+- **Network Access Control**
+- **Virtual LAN (VLAN)**
+- **Multifactor Authentication (MFA)**
+- **Patch Management**
+- **Audit Logging**
+
+---
+
+### 🏢 Physical Controls
+
+These aim to prevent unauthorized physical access and protect infrastructure integrity.
+
+- **Security Guards**
+- **CCTV Monitoring**
+- **Biometric (Facial Scanner) Entry**
+- **Badge Swipe Access**
+- **Entrance Logging**
+
+**Other Measures:**
+- Bollards to prevent vehicle intrusion
+- Motion Sensors
+- Environmental Controls (smoke/temperature detectors)
