@@ -57,3 +57,6 @@ These aim to prevent unauthorized physical access and protect infrastructure int
 - Bollards to prevent vehicle intrusion
 - Motion Sensors
 - Environmental Controls (smoke/temperature detectors)
+
+> **Disclaimer:** This project was created for educational purposes as part of coursework for CPSC 253 at California State University, Fullerton. 
+
